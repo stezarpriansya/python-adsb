@@ -1,0 +1,5 @@
+1. Sepal length in centimeters.
+2. Sepal width in centimeters.
+3. Petal length in centimeters.
+4. Petal width in centimeters.
+5. Class.

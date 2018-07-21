@@ -1,0 +1,7 @@
+Dept_ID;Dept
+110;Math
+111;Economics
+112;Law
+120;Natural Science
+121;Statistics
+122;Engineering
